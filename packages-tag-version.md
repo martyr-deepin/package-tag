@@ -67,7 +67,6 @@
 |         qtmpris         |       0.1.0        |                            no tag                            |
 |        startdde         |      5.5.0.21      | https://github.com/linuxdeepin/startdde/archive/5.5.0.21.tar.gz |
 |       udisks2-qt5       |       5.0.3        | https://github.com/linuxdeepin/udisks2-qt5/archive/5.0.3.tar.gz |
-|       deepin-draw       |      5.8.0.45      | https://github.com/linuxdeepin/deepin-draw/archive/5.8.0.45.tar.gz |
 |    deepin-wallpapers    |       1.6.14       | https://github.com/linuxdeepin/deepin-wallpapers/archive/1.6.14.tar.gz |
 |    dde-account-faces    |       1.0.11       | https://github.com/linuxdeepin/dde-account-faces/archive/1.0.11.tar.gz |
 |     deepin-artwork      |     2018.10.9      | https://github.com/linuxdeepin/deepin-artwork/archive/2018.10.9.tar.gz |
