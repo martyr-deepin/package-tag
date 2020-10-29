@@ -1,3 +1,5 @@
+[Stable version and download link of DDE projects](packages-tag-version.md)
+
 ## 中文：
 
 ### 这个项目是做什么的 ?
