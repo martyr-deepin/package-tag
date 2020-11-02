@@ -15,7 +15,7 @@
 |     deepin-anything     |       5.0.1        | https://github.com/linuxdeepin/deepin-anything/archive/5.0.1.tar.gz |
 |    deepin-calculator    |       5.5.23       | https://github.com/linuxdeepin/deepin-calculator/archive/5.5.23.tar.gz |
 |  deepin-deb-installer   |      5.6.0.19      | https://github.com/linuxdeepin/deepin-deb-installer/archive/5.6.0.19.tar.gz |
-|   deepin-desktop-base   |     2020.08.27     |                            no tag                            |
+|   deepin-desktop-base   |     2020.09.09     | https://github.com/linuxdeepin/deepin-desktop-base/archive/2020.09.09.tar.gz |
 | deepin-desktop-schemas  |      5.6.0.19      | https://github.com/linuxdeepin/deepin-desktop-schemas/archive/5.6.0.19.tar.gz |
 |  deepin-devicemanager   |      5.5.9.23      | https://github.com/linuxdeepin/deepin-devicemanager/archive/5.5.9.23.tar.gz |
 |       deepin-draw       |      5.8.0.45      | https://github.com/linuxdeepin/deepin-draw/archive/5.8.0.45.tar.gz |
