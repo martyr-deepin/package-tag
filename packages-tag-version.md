@@ -61,16 +61,13 @@
 |    go-gir-generator     |       2.0.2        | https://github.com/linuxdeepin/go-gir-generator/archive/2.0.2.tar.gz |
 |         go-lib          |      5.5.0.13      | https://github.com/linuxdeepin/go-lib/archive/5.5.0.13.tar.gz |
 |      go-x11-client      |       0.6.0        | https://github.com/linuxdeepin/go-x11-client/archive/0.6.0.tar.gz |
-|         granite         |       5.2.3        |                            no tag                            |
-|  plymouth-theme-deepin  |      15.10.16      |                            no tag                            |
-|     qtdbusextended      |       0.0.3        |                            no tag                            |
-|         qtmpris         |       0.1.0        |                            no tag                            |
+|  plymouth-theme-deepin  |      15.10.16      | https://github.com/linuxdeepin/plymouth-theme-deepin/archive/15.10.16.tar.gz |
+|         qtmpris         |       0.1.0        | https://github.com/linuxdeepin/qtmpris/archive/0.1.0.tar.gz |
 |        startdde         |      5.5.0.21      | https://github.com/linuxdeepin/startdde/archive/5.5.0.21.tar.gz |
 |       udisks2-qt5       |       5.0.3        | https://github.com/linuxdeepin/udisks2-qt5/archive/5.0.3.tar.gz |
 |    deepin-wallpapers    |       1.6.14       | https://github.com/linuxdeepin/deepin-wallpapers/archive/1.6.14.tar.gz |
 |    dde-account-faces    |       1.0.11       | https://github.com/linuxdeepin/dde-account-faces/archive/1.0.11.tar.gz |
 |     deepin-artwork      |     2018.10.9      | https://github.com/linuxdeepin/deepin-artwork/archive/2018.10.9.tar.gz |
 |           dde           |     2020.03.30     |                            no tag                            |
-| deepin-opensymbol-fonts |        2.2         |                            no tag                            |
 |    default-settings     |     2020.09.04     | https://github.com/linuxdeepin/default-settings/archive/2020.09.04.tar.gz |
 
