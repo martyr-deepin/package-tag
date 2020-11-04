@@ -4,7 +4,7 @@
 |         dde-api         |      5.3.0.3       | https://github.com/linuxdeepin/dde-api/archive/5.3.0.3.tar.gz |
 |      dde-calendar       |      5.7.0.4       | https://github.com/linuxdeepin/dde-calendar/archive/5.7.0.4.tar.gz |
 |   dde-control-center    |      5.2.0.37      | https://github.com/linuxdeepin/dde-control-center/archive/5.3.0.37.tar.gz |
-|  dde-device-formatter   |      0.0.1.5       |                            no tag                            |
+|  dde-device-formatter   |      0.0.1.5       | https://github.com/linuxdeepin/dde-device-formatter/archive/0.0.1.5.tar.gz |
 |        dde-dock         |      5.2.0.24      | https://github.com/linuxdeepin/dde-dock/archive/5.3.0.24.tar.gz |
 |    dde-file-manager     |      5.2.0.46      | https://github.com/linuxdeepin/dde-file-manager/archive/5.2.0.46.tar.gz |
 |      dde-launcher       |      5.2.0.19      | https://github.com/linuxdeepin/dde-launcher/archive/5.2.0.19.tar.gz |
