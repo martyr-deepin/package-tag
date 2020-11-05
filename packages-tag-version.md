@@ -36,7 +36,7 @@
 |      deepin-music       |      6.0.1.54      | https://github.com/linuxdeepin/deepin-music/archive/6.0.1.54.tar.gz |
 |  deepin-notifications   |       3.3.4        | https://github.com/linuxdeepin/deepin-notifications/archive/3.3.4.tar.gz |
 |      deepin-picker      |       5.0.8        | https://github.com/linuxdeepin/deepin-picker/archive/5.0.8.tar.gz |
-|  deepin-qt5dxcb-plugin  |       5.0.16       | https://github.com/linuxdeepin/deepin-qt5dxcb-plugin/archive/5.0.16.tar.gz |
+|  qt5platform-plugins    |       5.0.16       | https://github.com/linuxdeepin/qt5platform-plugins/archive/5.0.16.tar.gz |
 | deepin-screen-recorder  |      5.8.0.46      | https://github.com/linuxdeepin/deepin-screen-recorder/archive/5.8.0.46.tar.gz |
 |   deepin-screensaver    |       5.0.4        | https://github.com/linuxdeepin/deepin-screensaver/archive/5.0.4.tar.gz |
 |    deepin-screenshot    |       5.0.0        | https://github.com/linuxdeepin/deepin-screenshot/archive/5.0.0.tar.gz |
