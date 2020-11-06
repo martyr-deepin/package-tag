@@ -67,5 +67,5 @@
 |    deepin-wallpapers    |       1.6.14       | https://github.com/linuxdeepin/deepin-wallpapers/archive/1.6.14.tar.gz |
 |    dde-account-faces    |       1.0.11       | https://github.com/linuxdeepin/dde-account-faces/archive/1.0.11.tar.gz |
 |     deepin-artwork      |     2018.10.9      | https://github.com/linuxdeepin/deepin-artwork/archive/2018.10.9.tar.gz |
-|           dde           |     2020.03.30     |                            no tag                            |
+|           dde           |     2020.03.30     | https://github.com/linuxdeepin/dde/archive/2020.03.30.tar.gz |
 
