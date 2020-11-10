@@ -51,7 +51,6 @@
 |       dde-printer       |       0.6.3        | https://github.com/linuxdeepin/dde-printer/archive/0.6.3.tar.gz |
 |      deepin-reader      |      5.7.0.7       | https://github.com/linuxdeepin/deepin-reader/archive/5.7.0.7.tar.gz |
 |   deepin-repair-tools   |       5.0.1        | https://github.com/linuxdeepin/deepin-repair-tools/archive/5.0.1.tar.gz |
-|     deepin-feedback     |       5.0.0        | https://github.com/linuxdeepin/deepin-feedback/archive/5.0.0.tar.gz |
 |         dtkcore         |      5.2.2.5       | https://github.com/linuxdeepin/dtkcore/archive/5.2.2.5.tar.gz |
 |         dtkgui          |      5.2.2.4       | https://github.com/linuxdeepin/dtkgui/archive/5.2.2.4.tar.gz |
 |        dtkwidget        |      5.2.2.10      | https://github.com/linuxdeepin/dtkwidget/archive/5.2.2.10.tar.gz |
