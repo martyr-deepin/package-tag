@@ -48,6 +48,7 @@
 | deepin-voice-recorder  |                    |                                                              |
 |      deepin-turbo      |                    |                                                              |
 |   dde-session-shell    |                    |                                                              |
+|   dde-session-ui       |     5.3.0.23       | https://github.com/linuxdeepin/dde-session-ui/archive/5.3.0.23.tar.gz |
 |      dde-printer       |                    |                                                              |
 |     deepin-reader      |                    |                                                              |
 |  deepin-repair-tools   |                    |                                                              |
