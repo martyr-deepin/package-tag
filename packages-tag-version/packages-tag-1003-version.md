@@ -44,28 +44,27 @@
 |   deepin-sound-theme   |      15.10.5       | https://github.com/linuxdeepin/deepin-sound-theme/archive/15.10.5.tar.gz |
 | deepin-system-monitor  |      5.8.0.3       | https://github.com/linuxdeepin/deepin-system-monitor/archive/5.8.0.3.tar.gz |
 |    deepin-terminal     |      5.3.0.3       | https://github.com/linuxdeepin/deepin-terminal/archive/5.3.0.3.tar.gz |
-|   deepin-voice-note    |                    |                                                              |
-| deepin-voice-recorder  |                    |                                                              |
-|      deepin-turbo      |                    |                                                              |
-|   dde-session-shell    |                    |                                                              |
-|   dde-session-ui       |     5.3.0.23       | https://github.com/linuxdeepin/dde-session-ui/archive/5.3.0.23.tar.gz |
-|      dde-printer       |                    |                                                              |
-|     deepin-reader      |                    |                                                              |
-|  deepin-repair-tools   |                    |                                                              |
-|        dtkcore         |                    |                                                              |
-|         dtkgui         |                    |                                                              |
-|       dtkwidget        |                    |                                                              |
-|         dtkwm          |                    |                                                              |
-|         gio-qt         |                    |                                                              |
-|    go-dbus-factory     |                    |                                                              |
-|    go-gir-generator    |                    |                                                              |
-|         go-lib         |                    |                                                              |
-|     go-x11-client      |                    |                                                              |
-| plymouth-theme-deepin  |                    |                                                              |
-|        startdde        |                    |                                                              |
-|      udisks2-qt5       |                    |                                                              |
-|   deepin-wallpapers    |                    |                                                              |
-|   dde-account-faces    |                    |                                                              |
-|     deepin-artwork     |                    |                                                              |
-|          dde           |                    |                                                              |
-
+|   deepin-voice-note    |      5.8.11-1      | https://github.com/linuxdeepin/deepin-voice-note/archive/5.8.11-1.tar.gz |
+| deepin-voice-recorder  |        None        |                             None                             |
+|      deepin-turbo      |  0.0.3-1+apricot   | https://github.com/linuxdeepin/deepin-turbo/archive/0.0.3-1+apricot.tar.gz |
+|   dde-session-shell    |     5.3.0.37-1     | https://github.com/linuxdeepin/dde-session-shell/archive/5.3.0.37-1.tar.gz |
+|     dde-session-ui     |      5.3.0.23      | https://github.com/linuxdeepin/dde-session-ui/archive/5.3.0.23.tar.gz |
+|      dde-printer       |       0.7.3        | https://github.com/linuxdeepin/dde-printer/archive/0.7.3.tar.gz |
+|     deepin-reader      |      5.8.0.1       | https://github.com/linuxdeepin/deepin-reader/archive/5.8.0.1.tar.gz |
+|  deepin-repair-tools   |        None        |                             None                             |
+|        dtkcore         |      5.2.2.15      | https://github.com/linuxdeepin/dtkcore/archive/5.2.2.15.tar.gz |
+|         dtkgui         |      5.2.2.18      | https://github.com/linuxdeepin/dtkgui/archive/5.2.2.18.tar.gz |
+|       dtkwidget        |       5.3.0        | https://github.com/linuxdeepin/dtkwidget/archive/5.3.0.tar.gz |
+|         dtkwm          |       2.0.12       |  https://github.com/linuxdeepin/dtkwm/archive/2.0.12.tar.gz  |
+|         gio-qt         |       0.0.8        |  https://github.com/linuxdeepin/gio-qt/archive/0.0.8.tar.gz  |
+|    go-dbus-factory     |        None        |                             None                             |
+|    go-gir-generator    |        None        |                             None                             |
+|         go-lib         |        None        |                             None                             |
+|     go-x11-client      |        None        |                             None                             |
+| plymouth-theme-deepin  |      15.10.15      | https://github.com/linuxdeepin/plymouth-theme-deepin/archive/15.10.15.tar.gz |
+|        startdde        |      5.6.0.28      | https://github.com/linuxdeepin/startdde/archive/5.6.0.28.tar.gz |
+|      udisks2-qt5       |       5.0.3        |       https://github.com/linuxdeepin//archive/.tar.gz        |
+|   deepin-wallpapers    |       1.6.14       | https://github.com/linuxdeepin/deepin-wallpapers/archive/1.6.14.tar.gz |
+|   dde-account-faces    |       1.0.11       | https://github.com/linuxdeepin/dde-account-faces/archive/1.0.11.tar.gz |
+|     deepin-artwork     |     2018.10.9      | https://github.com/linuxdeepin/deepin-artwork/archive/2018.10.9.tar.gz |
+|          dde           |     2020.08.13     | https://github.com/linuxdeepin/dde/archive/2020.08.13.tar.gz |
