@@ -1,5 +1,5 @@
 
-[Versión estable y enlace de descarga de los proyectos DDE](packages-tag-version/packages-tag-1002-version.md)
+[Versión estable y enlace de descarga de los proyectos DDE](../packages-tag-version/packages-tag-1002-version.md)
 
 ## 
 

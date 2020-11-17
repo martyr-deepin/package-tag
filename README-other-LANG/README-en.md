@@ -1,6 +1,6 @@
-[1003 version and download link of DDE projects](packages-tag-version/packages-tag-1003-version.md)
+[1003 version and download link of DDE projects](../packages-tag-version/packages-tag-1003-version.md)
 
-[1002 version and download link of DDE projects](packages-tag-version/packages-tag-1002-version.md)
+[1002 version and download link of DDE projects](../packages-tag-version/packages-tag-1002-version.md)
 
 ## 
 
