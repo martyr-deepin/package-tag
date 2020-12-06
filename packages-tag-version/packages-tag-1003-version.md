@@ -62,7 +62,7 @@
 |     go-x11-client      |        0.6.2       | https://github.com/linuxdeepin/go-x11-client/archive/0.6.2.tar.gz |
 | plymouth-theme-deepin  |      15.10.15      | https://github.com/linuxdeepin/plymouth-theme-deepin/archive/15.10.15.tar.gz |
 |        startdde        |      5.6.0.28      | https://github.com/linuxdeepin/startdde/archive/5.6.0.28.tar.gz |
-|      udisks2-qt5       |       5.0.3        | https://github.com/linuxdeepin//archive/.tar.gz |
+|      udisks2-qt5       |       5.0.3        | https://github.com/linuxdeepin/udisks2-qt5/archive/5.0.0.tar.gz |
 |   deepin-wallpapers    |       1.6.14       | https://github.com/linuxdeepin/deepin-wallpapers/archive/1.6.14.tar.gz |
 |   dde-account-faces    |       1.0.11       | https://github.com/linuxdeepin/dde-account-faces/archive/1.0.11.tar.gz |
 |     deepin-artwork     |     2018.10.9      | https://github.com/linuxdeepin/deepin-artwork/archive/2018.10.9.tar.gz |
