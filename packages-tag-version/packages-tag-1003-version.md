@@ -1,7 +1,7 @@
 |      Source Name       | Stable tag Version |                        Download Link                         |
 | :--------------------: | :----------------: | :----------------------------------------------------------: |
 |      blur-effect       |       1.1.3        | https://github.com/linuxdeepin/blur-effect/archive/1.1.3.tar.gz |
-|        dde-api         |      5.3.0.14      |                             None                             |
+|        dde-api         |      5.3.0.14      | https://github.com/linuxdeepin/dde-api/archive/5.3.0.14.tar.gz |
 |      dde-calendar      |      5.7.0.22      | https://github.com/linuxdeepin/dde-calendar/archive/5.7.0.22.tar.gz |
 |   dde-control-center   |      5.3.0.54      | https://github.com/linuxdeepin/dde-control-center/archive/5.3.0.54.tar.gz |
 |  dde-device-formatter  |      0.0.1.1       | https://github.com/linuxdeepin/dde-device-formatter/archive/0.0.1.1.tar.gz |
@@ -15,7 +15,7 @@
 |    deepin-anything     |       5.0.1        | https://github.com/linuxdeepin/deepin-anything/archive/5.0.1.tar.gz |
 |   deepin-calculator    |      5.6.0.1       | https://github.com/linuxdeepin/deepin-calculator/archive/5.6.0.1.tar.gz |
 |  deepin-deb-installer  |      5.7.0.2       | https://github.com/linuxdeepin/deepin-deb-installer/archive/5.7.0.2.tar.gz |
-|  deepin-desktop-base   |     2020.11.04     |                             None                             |
+|  deepin-desktop-base   |     2020.11.04     | https://github.com/linuxdeepin/deepin-desktop-base/archive/2020.11.04.tar.gz |
 | deepin-desktop-schemas |      5.8.0.29      | https://github.com/linuxdeepin/deepin-desktop-schemas/archive/5.8.0.29.tar.gz |
 |  deepin-devicemanager  |      5.6.0.7       | https://github.com/linuxdeepin/deepin-devicemanager/archive/5.6.0.7.tar.gz |
 |      deepin-draw       |      5.8.0.73      | https://github.com/linuxdeepin/deepin-draw/archive/5.8.0.73.tar.gz |
@@ -58,7 +58,7 @@
 |         gio-qt         |       0.0.8        | https://github.com/linuxdeepin/gio-qt/archive/0.0.8.tar.gz  |
 |    go-dbus-factory     |      1.8.0.26      | https://github.com/linuxdeepin/go-dbus-factory/archive/1.8.0.26.tar.gz |
 |    go-gir-generator    |        2.0.2       | https://github.com/linuxdeepin/go-gir-generator/archive/2.0.2.tar.gz |
-|         go-lib         |       5.6.0.5      |                             None                             |
+|         go-lib         |       5.6.0.5      | https://github.com/linuxdeepin/go-lib/archive/5.6.0.5.tar.gz |
 |     go-x11-client      |        0.6.2       | https://github.com/linuxdeepin/go-x11-client/archive/0.6.2.tar.gz |
 | plymouth-theme-deepin  |      15.10.15      | https://github.com/linuxdeepin/plymouth-theme-deepin/archive/15.10.15.tar.gz |
 |        startdde        |      5.6.0.28      | https://github.com/linuxdeepin/startdde/archive/5.6.0.28.tar.gz |
