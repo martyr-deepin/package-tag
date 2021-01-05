@@ -3,11 +3,11 @@
 |      blur-effect       |       1.1.3        | https://github.com/linuxdeepin/blur-effect/archive/1.1.3.tar.gz |
 |        dde-api         |      5.3.0.14      | https://github.com/linuxdeepin/dde-api/archive/5.3.0.14.tar.gz |
 |      dde-calendar      |      5.7.0.23      | https://github.com/linuxdeepin/dde-calendar/archive/5.7.0.23.tar.gz |
-|   dde-control-center   |      5.3.0.82      |                             None                             |
+|   dde-control-center   |      5.3.0.82      | https://github.com/linuxdeepin/dde-control-center/archive/5.3.0.82.tar.gz |
 |  dde-device-formatter  |      0.0.1.1       | https://github.com/linuxdeepin/dde-device-formatter/archive/0.0.1.1.tar.gz |
 |        dde-dock        |      5.3.0.54      | https://github.com/linuxdeepin/dde-dock/archive/5.3.0.47.tar.gz |
-|    dde-file-manager    |      5.2.0.85      |                             None                             |
-|      dde-launcher      |      5.3.0.41      |                             None                             |
+|    dde-file-manager    |      5.2.0.85      | https://github.com/linuxdeepin/dde-file-manager/archive/5.2.0.85.tar.gz |
+|      dde-launcher      |      5.3.0.41      | https://github.com/linuxdeepin/dde-launcher/archive/5.3.0.41.tar.gz |
 |   dde-network-utils    |      5.3.0.5       | https://github.com/linuxdeepin/dde-network-utils/archive/5.3.0.5.tar.gz |
 |  dde-qt-dbus-factory   |      5.3.0.34      | https://github.com/linuxdeepin/dde-qt-dbus-factory/archive/5.3.0.34.tar.gz |
 |     qt5integration     |       5.1.5        | https://github.com/linuxdeepin/qt5integration/archive/5.1.5.tar.gz |
@@ -20,7 +20,7 @@
 |  deepin-devicemanager  |      5.6.0.16      | https://github.com/linuxdeepin/deepin-devicemanager/archive/5.6.0.16.tar.gz |
 |      deepin-draw       |      5.8.0.83      |                             None                             |
 |     deepin-editor      |      5.9.0.24      | https://github.com/linuxdeepin/deepin-editor/archive/5.9.0.24.tar.gz |
-|       dde-daemon       |    5.12.0.31.1     |                             None                             |
+|       dde-daemon       |    5.12.0.31.1     | https://github.com/linuxdeepin/dde-daemon/archive/5.12.0.31.1.tar.gz |
 |   deepin-log-viewer    |      5.8.0.28      | https://github.com/linuxdeepin/deepin-log-viewer/archive/5.8.0.28.tar.gz |
 |    dde-polkit-agent    |      5.3.0.3       | https://github.com/linuxdeepin/dde-polkit-agent/archive/5.3.0.3.tar.gz |
 |  dpa-ext-gnomekeyring  |       5.0.4        | https://github.com/linuxdeepin/dpa-ext-gnomekeyring/archive/5.0.4.tar.gz |
@@ -43,8 +43,8 @@
 |    deepin-terminal     |      5.4.0.6       | https://github.com/linuxdeepin/deepin-terminal/archive/5.4.0.6.tar.gz |
 |   deepin-voice-note    |      5.9.0.5       | https://github.com/linuxdeepin/deepin-voice-note/archive/5.9.0.5.tar.gz |
 |      deepin-turbo      |       0.0.5        | https://github.com/linuxdeepin/deepin-turbo/archive/0.0.5.tar.gz |
-|   dde-session-shell    |      5.3.0.45      |                             None                             |
-|     dde-session-ui     |      5.3.0.30      |                             None                             |
+|   dde-session-shell    |      5.3.0.45      | https://github.com/linuxdeepin/dde-session-shell/archive/5.3.0.45.tar.gz |
+|     dde-session-ui     |      5.3.0.30      | https://github.com/linuxdeepin/dde-session-ui/archive/5.3.0.30.tar.gz |
 |      dde-printer       |       0.7.6        | https://github.com/linuxdeepin/dde-printer/archive/0.7.6.tar.gz |
 |     deepin-reader      |      5.8.0.4       | https://github.com/linuxdeepin/deepin-reader/archive/5.8.0.4.tar.gz |
 |        dtkcore         |       5.4.0        | https://github.com/linuxdeepin/dtkcore/archive/5.4.0.tar.gz  |
@@ -57,7 +57,7 @@
 |         go-lib         |        None        |                             None                             |
 |     go-x11-client      |        None        |                             None                             |
 | plymouth-theme-deepin  |      15.10.15      | https://github.com/linuxdeepin/plymouth-theme-deepin/archive/15.10.15.tar.gz |
-|        startdde        |      5.6.0.35      |                             None                             |
+|        startdde        |      5.6.0.35      | https://github.com/linuxdeepin/startdde/archive/5.6.0.35.tar.gz |
 |      udisks2-qt5       |       5.0.3        | https://github.com/linuxdeepin/udisks2-qt5/archive/5.0.3.tar.gz |
 |   deepin-wallpapers    |       1.6.14       | https://github.com/linuxdeepin/deepin-wallpapers/archive/1.6.14.tar.gz |
 |   dde-account-faces    |       1.0.11       | https://github.com/linuxdeepin/dde-account-faces/archive/1.0.11.tar.gz |
