@@ -32,7 +32,7 @@
 |  deepin-image-viewer   |      5.6.3.73      | https://github.com/linuxdeepin/deepin-image-viewer/archive/5.6.3.73.tar.gz |
 |      deepin-menu       |       5.0.1        | https://github.com/linuxdeepin/deepin-menu/archive/5.0.1.tar.gz |
 |  deepin-movie-reborn   |     5.7.6.165      | https://github.com/linuxdeepin/deepin-movie-reborn/archive/5.7.6.165.tar.gz |
-|      deepin-music      |      6.0.1.91      | https://github.com/linuxdeepin/deepin-notifications/archive/3.3.4.tar.gz |
+|      deepin-music      |      6.0.1.91      | https://github.com/linuxdeepin/deepin-music/archive/6.0.1.91.tar.gz |
 |     deepin-picker      |       5.0.9        | https://github.com/linuxdeepin/deepin-picker/archive/5.0.9.tar.gz |
 |  qt5platform-plugins   |       5.0.19       | https://github.com/linuxdeepin/qt5platform-plugins/archive/5.0.19.tar.gz |
 | deepin-screen-recorder |      5.8.0.61      | https://github.com/linuxdeepin/deepin-screen-recorder/archive/5.8.0.61.tar.gz |
