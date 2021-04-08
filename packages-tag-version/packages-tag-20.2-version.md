@@ -37,3 +37,4 @@
 | plymouth-theme-deepin-logo |  15.10.15  | https://github.com/linuxdeepin/plymouth-theme-deepin  | https://github.com/linuxdeepin/plymouth-theme-deepin/archive/refs/tags/15.10.15.tar.gz |
 |       dde-clipboard        |   5.3.15   |     https://github.com/linuxdeepin/dde-clipboard      |                                                              |
 |     deepin-screensaver     |   5.0.5    |   https://github.com/linuxdeepin/deepin-screensaver   | https://github.com/linuxdeepin/deepin-screensaver/archive/refs/tags/5.0.5.tar.gz |
+|    dpa-ext-gnomekeyring    |   5.0.4    |  https://github.com/linuxdeepin/dpa-ext-gnomekeyring  | https://github.com/linuxdeepin/dpa-ext-gnomekeyring/archive/refs/tags/5.0.4.tar.gz |
