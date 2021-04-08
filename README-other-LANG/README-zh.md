@@ -1,4 +1,4 @@
-[[DDE项目的 20.2 版本列表和下载链接](packages-tag-version/packages-tag-20.2-version.md)
+[DDE项目的 20.2 版本列表和下载链接](../packages-tag-version/packages-tag-20.2-version.md)
 
 [DDE项目的 1010 版本列表和下载链接](../packages-tag-version/packages-tag-1010-version.md)
 
