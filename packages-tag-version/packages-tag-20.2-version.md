@@ -32,7 +32,7 @@
 |     dde-control-center     |   5.4.17   |   https://github.com/linuxdeepin/dde-control-center   | https://github.com/linuxdeepin/dde-control-center/archive/refs/tags/5.4.17.tar.gz |
 |      deepin-pw-check       |   5.0.11   |    https://github.com/linuxdeepin/deepin-pw-check     | https://github.com/linuxdeepin/deepin-pw-check/archive/refs/tags/5.0.11.tar.gz |
 |       dde-session-ui       |   5.4.6    |     https://github.com/linuxdeepin/dde-session-ui     | https://github.com/linuxdeepin/dde-session-ui/archive/refs/tags/5.4.6.tar.gz |
-|     dde-session-shell      |   5.4.9    |      //github.com/linuxdeepin/dde-session-shell       | https://github.com/linuxdeepin/dde-session-shell/archive/refs/tags/5.4.9.tar.gz |
+|     dde-session-shell      |   5.4.9    |   https://github.com/linuxdeepin/dde-session-shell    | https://github.com/linuxdeepin/dde-session-shell/archive/refs/tags/5.4.9.tar.gz |
 |    dde-device-formatter    |  0.0.1.1   |  https://github.com/linuxdeepin/dde-device-formatter  | https://github.com/linuxdeepin/dde-device-formatter/archive/refs/tags/0.0.1.1.tar.gz |
 | plymouth-theme-deepin-logo |  15.10.15  | https://github.com/linuxdeepin/plymouth-theme-deepin  | https://github.com/linuxdeepin/plymouth-theme-deepin/archive/refs/tags/15.10.15.tar.gz |
 |       dde-clipboard        |   5.3.15   |     https://github.com/linuxdeepin/dde-clipboard      | https://github.com/linuxdeepin/dde-clipboard/archive/refs/tags/5.3.15.tar.gz |
