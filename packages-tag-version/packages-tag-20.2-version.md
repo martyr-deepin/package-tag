@@ -16,7 +16,7 @@
 |         dtkcommon          |   5.5.2    |       https://github.com/linuxdeepin/dtkcommon        | https://github.com/linuxdeepin/dtkcommon/archive/refs/tags/5.5.2.tar.gz |
 |   deepin-desktop-schemas   |   5.9.8    | https://github.com/linuxdeepin/deepin-desktop-schemas | https://github.com/linuxdeepin/deepin-desktop-schemas/archive/refs/tags/5.9.8.tar.gz |
 |      deepin-anything       |   5.0.8    |    https://github.com/linuxdeepin/deepin-anything     |                                                              |
-|         disomaster         |   5.0.7    |       https://github.com/linuxdeepin/disomaster       |                                                              |
+|         disomaster         |   5.0.7    |       https://github.com/linuxdeepin/disomaster       | https://github.com/linuxdeepin/disomaster/archive/refs/tags/5.0.7.tar.gz |
 |  dde-qt5platform-plugins   |   5.0.21   |  https://github.com/linuxdeepin/qt5platform-plugins   | https://github.com/linuxdeepin/qt5platform-plugins/archive/refs/tags/5.0.21.tar.gz |
 |        dde-wayland         |   1.0.0    |      https://github.com/linuxdeepin/dde-wayland       | https://github.com/linuxdeepin/dde-wayland/archive/refs/tags/1.0.0.tar.gz |
 |         dde-daemon         |  5.13.10   |       https://github.com/linuxdeepin/dde-daemon       | https://github.com/linuxdeepin/dde-daemon/archive/refs/tags/5.13.10.tar.gz |
@@ -35,6 +35,6 @@
 |     dde-session-shell      |   5.4.9    |      //github.com/linuxdeepin/dde-session-shell       | https://github.com/linuxdeepin/dde-session-shell/archive/refs/tags/5.4.9.tar.gz |
 |    dde-device-formatter    |  0.0.1.1   |  https://github.com/linuxdeepin/dde-device-formatter  | https://github.com/linuxdeepin/dde-device-formatter/archive/refs/tags/0.0.1.1.tar.gz |
 | plymouth-theme-deepin-logo |  15.10.15  | https://github.com/linuxdeepin/plymouth-theme-deepin  | https://github.com/linuxdeepin/plymouth-theme-deepin/archive/refs/tags/15.10.15.tar.gz |
-|       dde-clipboard        |   5.3.15   |     https://github.com/linuxdeepin/dde-clipboard      |                                                              |
+|       dde-clipboard        |   5.3.15   |     https://github.com/linuxdeepin/dde-clipboard      | https://github.com/linuxdeepin/dde-clipboard/archive/refs/tags/5.3.15.tar.gz |
 |     deepin-screensaver     |   5.0.5    |   https://github.com/linuxdeepin/deepin-screensaver   | https://github.com/linuxdeepin/deepin-screensaver/archive/refs/tags/5.0.5.tar.gz |
 |    dpa-ext-gnomekeyring    |   5.0.4    |  https://github.com/linuxdeepin/dpa-ext-gnomekeyring  | https://github.com/linuxdeepin/dpa-ext-gnomekeyring/archive/refs/tags/5.0.4.tar.gz |
